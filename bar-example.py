@@ -21,4 +21,4 @@ plot = df.hvplot.barh(x='tech-stack', y='popularity',
                       xlabel='Programming Languages'.title(), ylabel="Number of People Who Use",
                       height=400,
                       width=600)
-print(plot)
+plot

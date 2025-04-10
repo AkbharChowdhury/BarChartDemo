@@ -35,7 +35,7 @@
 #
 # def main():
 #     plt.style.use("fivethirtyeight")
-#     data = pd.read_csv('data.csv')
+#     data = pd.read_csv('programming_lang_responses.csv')
 #     languages = data['LanguagesWorkedWith']
 #     # language_counter = Counter(list(chain.from_iterable(list((  language.split(';') for language in languages)))))
 #     language_counter = Counter(list(chain.from_iterable(list((  language.split(';') for language in languages)))))
